@@ -1,0 +1,3 @@
+cn\itcast\flumesource\MySqlSource.class
+cn\itcast\flumesink\MySink.class
+cn\itcast\flumesource\QueryMySql.class
